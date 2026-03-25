@@ -1,2 +1,47 @@
-# Atividade1Senac
- Atividade realizada durante o curso Jovem Programador no Senac. 
+
+# Sistema de Pacotes de Viagem (Java + JOptionPane)
+
+## Sobre o projeto
+
+Este projeto foi desenvolvido em Java com o objetivo de simular um sistema de uma agência de turismo, permitindo gerenciar pacotes de viagem nacionais e internacionais.
+
+A aplicação possibilita que o usuário visualize pacotes, selecione opcionais e obtenha um resumo completo da compra, aplicando na prática conceitos de Programação Orientada a Objetos (POO) como herança e polimorfismo.
+
+A interface foi construída utilizando JOptionPane, proporcionando uma interação simples e intuitiva, sem necessidade de uso do terminal.
+
+## Funcionalidades
+- Cadastro de cliente
+- Visualização de pacotes de viagem
+- Seleção de pacotes (nacionais e internacionais)
+- Escolha de opcionais adicionais
+- Exibição de resumo da compra com:
+
+📍 Destinos escolhidos
+
+🗓️ Duração das viagens
+
+🎯 Atividades inclusas
+
+💰 Valores individuais e total geral
+# Prints
+
+## Atividade
+![Atividade Print](AtividadePrint.png)
+
+## Telas
+
+![Tela Print 1](Screenshot1.png)
+
+![Tela Print 2](Screenshot2.png)
+
+![Tela Print 3](Screenshot3.png)
+
+![Tela Print 4](Screenshot4.png)
+
+![Tela Print 5](Screenshot5.png)
+
+![Tela Print 6](Screenshot6.png)
+
+![Tela Print 7](Screenshot7.png)
+
+![Tela Print 8](Screenshot8.png)
